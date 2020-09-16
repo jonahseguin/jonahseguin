@@ -1,4 +1,4 @@
-# here's my code 💜
+# so this is where i keep my code...
 
 ### 💼 Software Engineer / Developer
 
