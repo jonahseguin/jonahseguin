@@ -1,5 +1,11 @@
-# hi 👉👈
+# hi 💜
 
-I'm a 19-year-old Software Engineer from Alberta, Canada.
+### 💼 Software Engineer / Developer
 
-Java, Kotlin, Vue.js, Angular, React, Node.js, Express.js, Koa.js, Docker, Kubernetes, MongoDB, Redis 😎
+📍 Edmonton, Alberta, Canada
+
+👾 `Java`, `Kotlin`, `JavaScript`, `Python`, `TypeScript`
+
+🔮  Vue.js, Node.js, Express.js, Koa.js, Gridsome, Nuxt.js
+
+☂️ Docker, Kubernetes, MongoDB, Redis, PostgreSQL, Gradle 😎
