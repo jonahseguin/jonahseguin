@@ -2,9 +2,7 @@
 
 full-stack software developer.  
 
-i build web applications on the internet.
-
-<3 rust, kotlin, typescript, react/next
+i build web applications on the internet. 
 
 from Edmonton, currently living in Montréal.
 
