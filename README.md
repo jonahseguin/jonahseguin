@@ -2,7 +2,7 @@
 
 full-stack software developer.  
 
-i build web applications on the internet. 
+i build software on the internet. 
 
 from Edmonton, currently living in Montréal.
 
