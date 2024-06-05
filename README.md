@@ -1,8 +1,6 @@
 # hi, i'm jonah
 
-full-stack software developer.  
-
-i build software on the internet. 
+full-stack software developer. (i build stuff on the internet)
 
 from Edmonton, currently living in Montréal.
 
