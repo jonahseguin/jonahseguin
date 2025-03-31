@@ -1,7 +1,6 @@
 # hi, i'm `jonah`
-```rs
-// full-stack software nerd.
-```
+
+`// full-stack software nerd.`
 
 * [[ `www.jonahseguin.com` ]](https://jonahseguin.com)
 * [[ `x.com/@jonahseguin` ]](https://x.com/jonahseguin)
@@ -9,5 +8,5 @@
 
 #### expert in:
 ```rs
-["js/ts", "java", "kotlin", "rust", "react/next", "vue/nuxt", "graphql", "docker", "k8s", ...]
+["javascript", "typescript", "react", "next", "java", "kotlin", "rust", "vue/nuxt", "graphql", "docker", "k8s", "sql", "mongodb", "ci/cd", "git", ...]
 ```
