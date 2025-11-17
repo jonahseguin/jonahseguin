@@ -1,6 +1,6 @@
 # hi, i'm jonah.
 
-full-stack software engineer.
+nerd. full-stack software engineer. founding engineer @Mail-0
 
 * [[ `www` ]](https://jonahseguin.com)
 * [[ `@jonahseguin` ]](https://x.com/jonahseguin)
