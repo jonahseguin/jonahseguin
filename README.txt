@@ -1,1 +1,1 @@
-self-taught nerd.
+making things
